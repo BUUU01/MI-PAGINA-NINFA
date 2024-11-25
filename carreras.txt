@@ -1,0 +1,35 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=2">
+	<title></title>
+</head>
+<body bgcolor="pink">
+<center><img src="2.jpg"><br></center>   
+<h1><center>BIENVENIDO AL INSTITUTO ITEC</center></h1>
+<hr>
+<center><strong>CARRERAS:</strong>
+<ul>
+
+
+   <center> <li>SISTEMAS INFORMATICOS</li>
+   
+
+
+   <li><center>CONTADURIA GENERAL</li>
+    
+
+   <li>SECRETARIADO EJECUTIVO</li>
+  
+</ul>
+
+<br>
+<h4><a href="PAGINA PRINCIPAL.html">volver anterior</a></h4>
+
+<br>
+Potosi-Bolivia<br>
+<br>
+</body>
+</html>

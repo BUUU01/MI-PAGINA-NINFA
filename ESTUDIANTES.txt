@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title></title>
+</head>
+<body bgcolor="pink">
+<center><img src="IMAGEN1.jpg"><br></center>
+
+<h1 bgcolor= "red"><center bgcolor= "green">INSTITUTO TECNICO COMERCIAL <br>FE Y ALEGRIA</center></h1>	
+<hr>
+<br>
+Potosi-Bolivia<br>
+
+<strong>ESTUDIANTES:</strong>
+<ul>
+
+
+   <li>SISTEMAS INFORMATICOS</li>
+   <ul>
+   	 <li>
+   	    <a href="curso1.html"> PRIMERO</a></li>
+   	 <li>
+   	    <a href="curso2.html"> SEGUNDO</a></li>
+   	 <li>
+   	    <a href="curso3.html"> TERCERO</a></li>
+   </ul>
+
+
+   <li>CONTADURIA GENERAL</li>
+    <ul>
+   	 <li>
+   	    <a href="curso4.html">PRIMERO</a></li>
+   	 <li>
+   	    <a href="curso5.html">SEGUNDO</a></li>
+   	 <li>
+   	    <a href="curso6.html">TERCERO</a></li>
+   </ul>
+
+   <li>SECRETARIADO EJECUTIVO</li>
+   <ul>
+   	 <li>
+   	    <a href="curso7.html">PRIMERO</a></li>
+   	 <li>
+   	    <a href="curso8.html">SEGUNDO</a></li>
+   	 <li>
+   	    <a href="curso9.html">TERCERO</a></li>
+   </ul>
+</ul>
+<br>
+<h4><a href="PAGINA PRINCIPAL.html">volver anterior</a></h4>
+<br>
+<br>
+Potosi-Bolivia<br>
+
+</body>
+</html>

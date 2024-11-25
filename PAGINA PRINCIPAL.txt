@@ -1,0 +1,46 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=2">
+	<title></title>
+</head>
+<body bgcolor="pink">
+<center><img src="2.jpg"><br></center>
+
+<h1 bgcolor= "green"><center bgcolor= "#EA3019">INSTITUTO TECNICO COMERCIAL <br>FE Y ALEGRIA</center></h1>
+<h3><center> | <a href="INICIO.html">INICIO</a> | <a href="CARRERAS.html">CARRERAS</a> | <a href="MATERIAS.html">MATERIAS</a> | <a href="DOCENTES.html">DOCENTES</a> | <a href="ESTUDIANTES.html">ESTUDIANTES</a> | <a href="NOSOTROS.html">NOSOTROS</a> | </center> </h3>	
+<hr>
+<center>
+<table>
+
+	  <tr><td><center>  <img src="logo.png"><p>Asterión se aburre en la eterna<br>soledad de su infinito hogar.<br>
+                                                Cada nueve años,<br> nueve hombres se presentan en él,<br> pero mueren sin que llegue a tocarlos.<br>
+                                                Uno de ellos profetiza que<br> algún día llegará quien acabe<br> con su dolorosa soledad.<br></p>  </center></td>
+		        
+          <td><center>  <img src="logo.png"><p>Asterión se aburre en la eterna<br>soledad de su infinito hogar.<br>
+                                                Cada nueve años,<br> nueve hombres se presentan en él,<br> pero mueren sin que llegue a tocarlos.<br>
+                                                Uno de ellos profetiza que<br> algún día llegará quien acabe<br> con su dolorosa soledad.<br></p>  </center></td>
+                
+          <td><center>  <img src="logo.png"><p>Asterión se aburre en la eterna<br>soledad de su infinito hogar.<br>
+                                                Cada nueve años,<br> nueve hombres se presentan en él,<br> pero mueren sin que llegue a tocarlos.<br>
+                                                Uno de ellos profetiza que<br> algún día llegará quien acabe<br> con su dolorosa soledad.<br></p>  </center></td>
+
+</table>
+</center>
+<p>
+<center> Asterión se aburre en la eterna soledad de su infinito hogar.<br>
+Cada nueve años, nueve hombres se presentan en él, pero mueren sin que llegue a tocarlos.<br>
+Uno de ellos profetiza que algún día llegará quien acabe con su dolorosa soledad.<br>
+
+Un día, Teseo conversa con Ariadna luego de limpiar su espada de la sangre de Asterión.<br>Le asombra lo simple que fue asesinarlo:<br>
+el minotauro ni siquiera se defendió. </center>
+</p>
+<br>
+Fe y Alegria<br>
+Potosi-Bolivia<br>
+<br>
+
+</body>
+</html>
